@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Full Stack MERN bootcamp",
+    "organisation": "Tech Educators",
+    "startDate": "Sept, 2023 - Present",
+    "experiences": [
+      "Built and collaborated on projects via pair programming",
+      "Created web apps applying both frontend and backend technologies"
+    ],
+    "imageSrc": "history/techeducators.png"
+  },
+  {
+    "role": "Creative Digital Bootcamp",
+    "organisation": "SharpFutures",
+    "startDate": "June 2023",
+    "experiences": [
+      "Designed a website for digital business using WIX platform",
+      "Presented the website and a social media marketing plan to SharpFutures team"
+    ],
+    "imageSrc": "history/sharpfutures.png"
+  },
+  {
+    "role": "Nuffield Research Placement",
+    "organisation": "John Moores Univeristy",
+    "startDate": "July, 2018 - August, 2018",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/placement.png"
+  }
+]
