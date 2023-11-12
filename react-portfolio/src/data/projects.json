@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
+    "title": "Tamagotchi App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A user-friendly Virtual Pet Website incorporating interactive user engagement, featuring local storage for seamless data persistence.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://patrickpatch.github.io/VirtualPetProject/",
+    "source": "https://github.com/PatrickPatch/VirtualPetProject"
   },
   {
     "title": "Project B",
