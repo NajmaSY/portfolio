@@ -8,19 +8,19 @@
     "source": "https://github.com/PatrickPatch/VirtualPetProject"
   },
   {
-    "title": "Project B",
+    "title": "Sonic Summit Festival App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A festival app made using MERN stack in which users can log in using Auth0 and can favourite Artists and add them to their own personal schedule",
+    "skills": ["React", "Express", "MongoDB", "Node"],
+    "demo": "https://sonic-summit.vercel.app/",
+    "source": "https://github.com/NajmaSY/sonic-summit"
   },
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A React App displaying a photo gallery with interactive filtering and modal display functionality",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://horned-beasts-mocha.vercel.app/ ",
+    "source": "https://github.com/NajmaSY/horned-beasts"
   }
 ]
