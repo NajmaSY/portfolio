@@ -16,7 +16,7 @@
     "source": "https://github.com/NajmaSY/sonic-summit"
   },
   {
-    "title": "Project C",
+    "title": "Horned Beasts App",
     "imageSrc": "projects/project.png",
     "description": "A React App displaying a photo gallery with interactive filtering and modal display functionality",
     "skills": ["React", "Express", "Node"],
